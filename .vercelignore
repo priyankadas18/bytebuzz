@@ -7,3 +7,7 @@ storage/framework/views
 bootstrap/cache/*.php
 .env
 .git
+.github
+public/storage
+*.zip
+*.rar
